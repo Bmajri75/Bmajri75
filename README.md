@@ -40,3 +40,5 @@ Je me spécialise en JavaScript. (Frontend & Backend).
 Contact moi : 
 LinkedIn: https://www.linkedin.com/in/bashcoding
 Mail : bmajri@gmail.com
+
+🫶 Ma Page WeLoveDev : https://bmajri.welovedevs.com
