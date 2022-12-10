@@ -25,12 +25,11 @@ Here are some ideas to get you started:
 
 🏊‍♂️ j'ai participé à quelques piscines (WebAcademy d'EPITECH et 42) car j'aime les défis.
 
-📚J'effectue constamment de la veille Tech sur différents langages, participe à des MeetUp en ligne et je suis force de proposition.
+📚J'effectue constamment de la veille Tech, participe à des MeetUp en ligne et je suis force de proposition.
 
 👨‍💻Je souhaite aujourd'hui m'investir au sein d'une équipe avec qui je peux évoluer sur du long-terme.
-
-🧑‍🎓Actuellement je valide un Titre pro de Développeur Web avec #OpenClassRooms, à distance.
-Je me spécialise en JavaScript. (Frontend & Backend).
+Je dispose d'un statut de micro-entreprises. 
+Je peux donc répondre à vos demandes pour la conception d'application Web.
 
 📈 J’évolue jour après jour.
 
