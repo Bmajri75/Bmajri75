@@ -19,25 +19,24 @@ Here are some ideas to get you started:
 -->
 
 👋Hello!
-😊Moi c'est Bechir MAJRI ▶️ En reconversion professionnelle, j'ai par le passé développés des compétences et des connaissances dans divers domaines. 
-⭐ Assidu, ⭐curieux ⭐ponctuel sont des qualités qui m'ont toujours représentés.
-💻Mordu d’informatique, j’ai appris à coder en autodidacte, 
+😊 ▶️Par le passé, j'ai développés des compétences et des connaissances dans divers domaines. 
+⭐ Assidu, ⭐curieux ⭐ponctuel ⭐autonome sont des qualités qui m'ont toujours représentés.
+💻 Mordu d’informatique, j’ai appris à coder en autodidacte, 
 
-🏊‍♂️ j'ai participé à quelques piscines (WebAcademy d'EPITECH et 42) car j'aime les défis.
+🏊‍♂️  J'ai participé à quelques piscines (WebAcademy d'EPITECH que j'ai réussi et 42 qu'on a arrêté suite au confinement de mars 2020) tout ça, car j'aime les défis.
 
-📚J'effectue constamment de la veille Tech, participe à des MeetUp en ligne et je suis force de proposition.
+📚 Je suis constamment en veille Tech, participe à des MeetUp en ligne et je suis force de proposition.
 
-👨‍💻Je souhaite aujourd'hui m'investir au sein d'une équipe avec qui je peux évoluer sur du long-terme.
-Je dispose d'un statut de micro-entreprises. 
-Je peux donc répondre à vos demandes pour la conception d'application Web.
+👨‍💻 Je suis ouvert au CDD et au CDI ou bien,
+Je dispose d'un statut d'auto-entrepreneur.
+Je peux donc répondre à vos demandes pour la conception d'application Web et autre.
 
-📈 J’évolue jour après jour.
 
 🤝🏻J'ai Hâte de faire votre connaissance🤝🏻
 
 
 Contact moi : 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/babashcoding
 Mail : bmajri@gmail.com
 
 🫶 Ma Page WeLoveDev : https://bmajri.welovedevs.com
