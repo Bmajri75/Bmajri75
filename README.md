@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ⭐ Assidu, ⭐curieux ⭐ponctuel ⭐autonome sont des qualités qui m'ont toujours représentés.
 💻 Mordu d’informatique, j’ai appris à coder en autodidacte, 
 
-🏊‍♂️  J'ai participé à quelques piscines (WebAcademy d'EPITECH que j'ai réussi et 42 qu'on a arrêté suite au confinement de mars 2020) tout ça, car j'aime les défis.
+🏊‍♂️  J'ai participé à quelques piscines (WebAcademy d'EPITECH que j'ai réussi et 42 qu'on a arrêté suite au confinement de mars 2020) tout ça, par défi.
 
 📚 Je suis constamment en veille Tech, participe à des MeetUp en ligne et je suis force de proposition.
 
