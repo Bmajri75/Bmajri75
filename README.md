@@ -1,42 +1,49 @@
-### Hi there 👋
 
-<img aligne="left" alt ="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &ensp; <img alt ="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> &ensp; <img alt ="SASS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp; <img alt ="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  &ensp; <img alt =" React.js"  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &ensp; <img alt ="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>  &ensp; <img alt ="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  &ensp; <img alt ="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+## Hi there 👋
 
+### 🛠️ Technologies & Tools
+<p>
+  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
+  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> &nbsp;
+  <img alt="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
+  <img alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp;
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;
+  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</p>
 
-<!--
-**Bmajri75/Bmajri75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+- 😊 In the past, I have developed skills and knowledge in various fields.
+- ⭐ I am **diligent**, **curious**, **punctual**, and **autonomous**—qualities that have always defined me.
+- 💻 Passionate about technology, I have learned to code as a self-taught developer.
+- 🏊‍♂️ I participated in several intensive coding programs, such as the EPITECH WebAcademy and 42, which I had to leave due to the COVID-19 lockdown in March 2020. I undertook these challenges purely for the love of learning.
+- 📚 I constantly stay up-to-date with tech trends, participate in online MeetUps, and actively contribute new ideas.
+- 👨‍💻 I am open to both **CDD** and **CDI** contracts, as well as freelance projects. I hold an auto-entrepreneur status, so I can help you with your web application projects or other IT needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-👋Hello!
-😊 ▶️Par le passé, j'ai développés des compétences et des connaissances dans divers domaines. 
-⭐ Assidu, ⭐curieux ⭐ponctuel ⭐autonome sont des qualités qui m'ont toujours représentés.
-💻 Mordu d’informatique, j’ai appris à coder en autodidacte, 
+### 🤝 Let's Connect!
+- 📫 **Email:** [bmajri@gmail.com](mailto:bmajri@gmail.com)
+- 💼 **LinkedIn:** [BabashCoding](https://www.linkedin.com/in/bmajri/)
+- 🌐 **WeLoveDev Page:** [bmajri.welovedevs.com](https://bmajri.welovedevs.com)
 
-🏊‍♂️  J'ai participé à quelques piscines (WebAcademy d'EPITECH que j'ai réussi et 42 qu'on a arrêté suite au confinement de mars 2020) tout ça, par défi.
+---
 
-📚 Je suis constamment en veille Tech, participe à des MeetUp en ligne et je suis force de proposition.
+### ⚡ Fun Facts
+- I am always eager to learn and love taking on new challenges.
+- I thrive in dynamic and collaborative environments.
 
-👨‍💻 Je suis ouvert au CDD et au CDI ou bien,
-Je dispose d'un statut d'auto-entrepreneur.
-Je peux donc répondre à vos demandes pour la conception d'application Web et autre.
+---
 
+### 🔭 Currently Working On...
+- Learning new tech stacks and contributing to open-source projects.
+- Expanding my knowledge in web development and backend technologies.
 
-🤝🏻J'ai Hâte de faire votre connaissance🤝🏻
+---
 
-
-Contact moi : 
-LinkedIn: https://www.linkedin.com/in/babashcoding
-Mail : bmajri@gmail.com
-
-🫶 Ma Page WeLoveDev : https://bmajri.welovedevs.com
+### 🌱 Currently Learning...
+- Advanced React.js concepts and backend development with Node.js.
+- DevOps tools and best practices to streamline deployment processes.
