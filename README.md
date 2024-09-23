@@ -27,7 +27,7 @@
 ### 🤝 Let's Connect!
 - 📫 **Email:** [bmajri@gmail.com](mailto:bmajri@gmail.com)
 - 💼 **LinkedIn:** [BabashCoding](https://www.linkedin.com/in/bmajri/)
-- 🌐 **WeLoveDev Page:** [bmajri.welovedevs.com](https://bmajri.welovedevs.com)
+- 🌐 **WeLoveDev Page:** [bmajri.welovedevs.com](https://welovedevs.com/fr/app/user/bechir-developpeur-web-js-ou-python)
 
 ---
 
