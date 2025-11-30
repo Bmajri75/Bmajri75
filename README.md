@@ -14,16 +14,6 @@
 
 ---
 
-### 👋 About Me
-- 😊 In the past, I have developed skills and knowledge in various fields.
-- ⭐ I am **diligent**, **curious**, **punctual**, and **autonomous**—qualities that have always defined me.
-- 💻 Passionate about technology, I have learned to code as a self-taught developer.
-- 🏊‍♂️ I participated in several intensive coding programs, such as the EPITECH WebAcademy and 42, which I had to leave due to the COVID-19 lockdown in March 2020. I undertook these challenges purely for the love of learning.
-- 📚 I constantly stay up-to-date with tech trends, participate in online MeetUps, and actively contribute new ideas.
-- 👨‍💻 I am open to both **CDD** and **CDI** contracts, as well as freelance projects. I hold an auto-entrepreneur status, so I can help you with your web application projects or other IT needs.
-
----
-
 ### 🤝 Let's Connect!
 - 📫 **Email:** [bmajri@gmail.com](mailto:bmajri@gmail.com)
 - 💼 **LinkedIn:** [BabashCoding](https://www.linkedin.com/in/bmajri/)
