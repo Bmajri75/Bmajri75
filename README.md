@@ -1,38 +1,71 @@
+# 👋 Bienvenue sur mon profil GitHub
 
-## Hi there 👋
+Je suis **Bechir Majri**, développeur full-stack passionné par la création d'applications web et mobiles innovantes.
 
-### 🛠️ Technologies & Tools
-<p>
-  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
-  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> &nbsp;
-  <img alt="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-  <img alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &nbsp;
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;
-  
-</p>
+## 💻 À propos de moi
+
+Développeur full-stack avec expertise en :
+- **Frontend** : React, Angular, Vue.js, React Native
+- **Backend** : Node.js, Python, FastAPI, Express
+- **IA/ML** : Intégration OpenAI, GPT-4, classification d'images
+- **DevOps** : Docker, Vercel, Heroku, GitHub Actions
+
+Actuellement, je travaille sur des projets e-commerce et de plateforme SaaS pour les entreprises et startups.
+
+## 🎯 Projets en vedette
+
+### 🛍️ [Kongo Parfum](https://github.com/Bmajri75/kongo-parfum)
+E-commerce de parfums premium - Angular + Node.js  
+Panier, paiement sécurisé, gestion d'inventaire
+
+### 💼 [Portfolio - MBTech](https://github.com/Bmajri75/portfolio-mbtech)
+Portfolio professionnel moderne - React + Vite + Tailwind  
+Contact directe via EmailJS
+
+### 🗂️ [Smart File Organizer](https://github.com/Bmajri75/SmartFileOrganizer)
+Classification intelligente de fichiers avec IA - FastAPI + GPT-4  
+Analyse automatique de documents et images
+
+### ♟️ [Chess Center](https://github.com/Bmajri75/chess-center)
+Plateforme d'échecs en ligne - Python + Node.js  
+Matchmaking, ranking ELO, analyse de parties
+
+## 📊 Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bmajri75&show_icons=true&theme=radical)
+
+## 🌐 Où me trouver
+
+- 💼 [LinkedIn](https://linkedin.com/in/bechir-majri) - En développement
+- 📧 [Email](mailto:bmajri@example.com) - Contactez-moi directement
+- 🌍 [Portfolio Web](https://portfolio-mbtech.vercel.app) - Mes projets
+- 📱 [Twitter](https://twitter.com/bmajri75) - Suivez mes updates
+
+## 🛠️ Technologies principales
+
+```
+Languages:   JavaScript, TypeScript, Python, HTML5, CSS3
+Frontend:    React, Angular, Vue.js, Vite, Tailwind CSS
+Backend:     Node.js, FastAPI, Express, Django
+Databases:   MongoDB, PostgreSQL, MySQL, Firebase
+Tools:       Git, Docker, GitHub Actions, VS Code
+Cloud:       Vercel, Heroku, AWS, Google Cloud
+```
+
+## 🎓 Formation
+
+- OpenClassrooms - Développeur Full-stack JavaScript
+- Certifications en React, Node.js, MongoDB
+
+## 🚀 Objectifs
+
+- [ ] Créer une SaaS à succès
+- [ ] Atteindre 5k GitHub stars
+- [ ] Contribuer à des projets open source majeurs
+- [ ] Mentorat de développeurs juniors
 
 ---
 
-### 🤝 Let's Connect!
-- 📫 **Email:** [bmajri@gmail.com](mailto:bmajri@gmail.com)
-- 💼 **LinkedIn:** [BabashCoding](https://www.linkedin.com/in/bmajri/)
-- 🌐 **WeLoveDev Page:** [bmajri.welovedevs.com](https://welovedevs.com/fr/app/user/bechir-developpeur-web-js-ou-python)
+**Open to opportunities** 🤝 - N'hésitez pas à me contacter pour des collaborations ou opportunités !
 
----
-
-### ⚡ Fun Facts
-- I am always eager to learn and love taking on new challenges.
-- I thrive in dynamic and collaborative environments.
-
----
-
-### 🔭 Currently Working On...
-- Learning new tech stacks and contributing to open-source projects.
-- Expanding my knowledge in web development and backend technologies.
-
----
-
-### 🌱 Currently Learning...
-- Advanced React.js concepts and backend development with Node.js.
-- DevOps tools and best practices to streamline deployment processes.
+![](https://komarev.com/ghpvc/?username=Bmajri75&color=blue)
