@@ -18,6 +18,7 @@
 Développeur full-stack français avec **5+ ans d'expérience** dans la création d'applications web et mobiles de haute qualité. Je conçois des solutions scalables et performantes pour les startups et entreprises.
 
 **Spécialisations :**
+
 - 🎨 **Frontend** : React, Angular, Vue.js, Next.js
 - 🔧 **Backend** : Node.js, Python, FastAPI, Express
 - 🤖 **IA/ML** : Intégration OpenAI, GPT-4, classification
@@ -33,6 +34,7 @@ Développeur full-stack français avec **5+ ans d'expérience** dans la créatio
 <td width="50%">
 
 ### 🛍️ Kongo Parfum
+
 **E-Commerce Premium**
 
 Stack: Angular 21 + Node.js
@@ -48,6 +50,7 @@ Stack: Angular 21 + Node.js
 <td width="50%">
 
 ### 💼 Portfolio MBTech
+
 **Portfolio Professionnel**
 
 Stack: React 19 + Vite + Tailwind
@@ -65,6 +68,7 @@ Stack: React 19 + Vite + Tailwind
 <td width="50%">
 
 ### 🗂️ Smart File Organizer
+
 **Classification IA**
 
 Stack: FastAPI + GPT-4 + React
@@ -80,6 +84,7 @@ Stack: FastAPI + GPT-4 + React
 <td width="50%">
 
 ### ♟️ Chess Center
+
 **Plateforme d'Échecs**
 
 Stack: Python 3.11 + Node.js
@@ -112,6 +117,7 @@ Stack: Python 3.11 + Node.js
 ## 🛠️ Stack Technique
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -119,6 +125,7 @@ Stack: Python 3.11 + Node.js
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -126,12 +133,14 @@ Stack: Python 3.11 + Node.js
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -141,12 +150,12 @@ Stack: Python 3.11 + Node.js
 
 ## 📈 Statistiques & Réussites
 
-| Métrique | Valeur |
-|----------|--------|
-| 📚 Projets Publics | 10+ |
-| 💼 Clients | 5+ |
-| 🎓 Formations | 8 |
-| 🏆 Certifications | 5 |
+| Métrique           | Valeur |
+| ------------------ | ------ |
+| 📚 Projets Publics | 10+    |
+| 💼 Clients         | 5+     |
+| 🎓 Formations      | 8      |
+| 🏆 Certifications  | 5      |
 
 ---
 
@@ -162,11 +171,31 @@ Stack: Python 3.11 + Node.js
 
 ## 💡 Ce que je fais
 
-✨ **Créer des applications** qui impressionnent et performent  
-🚀 **Résoudre des problèmes** complexes avec du code élégant  
-📚 **Partager des connaissances** via le code open-source  
-🤝 **Collaborer** avec des équipes talentueuses  
-🌍 **Bâtir** l'avenir du web  
+✨ **Créer des applications** qui impressionnent et performent
+🚀 **Résoudre des problèmes** complexes avec du code élégant
+📚 **Partager des connaissances** via le code open-source
+🤝 **Collaborer** avec des équipes talentueuses
+🌍 **Bâtir** l'avenir du web
+
+---
+
+## 🤖 Expertise en IA & Machine Learning
+
+**Je maîtrise l'intégration et l'utilisation avancée de l'IA dans mes projets :**
+
+- 🧠 **GPT-4 & Claude** - Intégration API pour applications intelligentes
+- 🖼️ **Computer Vision** - Reconnaissance d'images et analyse visuelles
+- 📊 **NLP** - Traitement du langage naturel
+- 🎯 **Classification** - Modèles de classification de documents
+- ⚙️ **Automatisation** - Workflows intelligents & assistants IA
+- 🔍 **Vector Search** - Recherche sémantique avancée
+
+**Projets IA :**
+- Smart File Organizer - Classification IA de documents avec GPT-4
+- Intégration ChatGPT pour assistants conversationnels
+- Vision par IA pour analyse d'images
+
+**Status** : 🟢 **Augmenté par l'IA** - Utilise Claude & outils IA pour optimiser productivité et qualité du code
 
 ---
 
@@ -195,9 +224,9 @@ Stack: Python 3.11 + Node.js
 
 ### 📧 Comment me contacter
 
-**Email** : [bmajri@example.com](mailto:bmajri@example.com)  
-**LinkedIn** : [Bechir Majri](https://linkedin.com/in/bechir-majri)  
-**Portfolio** : [MBTech Solutions](https://portfolio-mbtech.vercel.app)  
+**Email** : [bmajri@example.com](mailto:bmajri@example.com)
+**LinkedIn** : [Bechir Majri](https://linkedin.com/in/bechir-majri)
+**Portfolio** : [MBTech Solutions](https://portfolio-mbtech.vercel.app)
 
 ---
 
